@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: white;
+}
+input {
+  padding: 8px;
+  margin: 5px;
+  display: block;
+  width: 300px;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  cursor: pointer;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+td, th {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
